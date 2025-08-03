@@ -13,7 +13,7 @@ A sleek and interactive unit conversion web app designed to bridge the gap betwe
 - Stylish theme with smooth button and input interactions  
 
 ## 📸 Screenshot
-![App Output](output.png)
+![App Output](https://github.com/S-KeerthanaDharshini/UnitVerse/blob/main/Metric%20Unit%20Converter/output.png)
 
 ## 🚀 Live Demo
 Check out the live version here: [UnitVerse](https://cheerful-stroopwafel-381110.netlify.app)
