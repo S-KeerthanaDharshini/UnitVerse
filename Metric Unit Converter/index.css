@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("background.jpg");
+     
+ 
+
+}
+.hero-part{
+    color:#ffffff;
+    background-color: 	#7651ff;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding:20px;
+    margin:0 auto;
+    width :560px;
+    
+}
+.conversion-part{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+    padding-bottom:20px ;
+    color: whitesmoke;
+    margin:0 auto;
+    width :600px;
+
+
+   
+}
+.calcs-part{
+  margin-top:20px;
+  background-color:#273549;
+
+  width :400px;
+  padding: 10px;
+  justify-content: center;
+
+}
+h1,h2,p{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    width:100px;
+    height:40px;
+    margin:20px;
+    border-radius:  8px;
+    border: none;
+    background-color: #ffffff;
+  font-weight: bold;
+  font-size: medium;
+  color: #7651ff;
+}
+input{
+    height: 70px;
+    width :100px;
+    border-radius: 8px;
+    border: 3px solid gainsboro;
+    background-color: 	#7651ff;
+    text-align: center;
+    font-size: 40px;
+    color:#ffffff;
+    font-weight: bolder;
+}
+button:active{
+         box-shadow: 5px 5px 20px #3f44cc ;
+}
